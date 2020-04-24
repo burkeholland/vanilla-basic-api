@@ -5,8 +5,6 @@
   "azureFunctions.projectRuntime": "~2",
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.preDeployTask": "npm prune",
-  "workbench.colorTheme": "Visual Studio Dark",
-  "workbench.sideBar.location": "left",
   "liveServer.settings.proxy": {
     "enable": true,
     "baseUri": "/api",
